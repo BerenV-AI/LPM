@@ -1,2 +1,2 @@
 # LPM
-Lineal Processing Machine
+Lineal processing machine
